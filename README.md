@@ -20,7 +20,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## Deployed Application
 
-("https://calm-oasis-32152.herokuapp.com/
+("https://bestfinances.herokuapp.com/
 ")
 
 * Online images:
