@@ -23,11 +23,11 @@ Giving users a fast and easy way to track their money is important, but allowing
 ("https://calm-oasis-32152.herokuapp.com/
 ")
 
-* Online image:
+* Online images:
 
 ![Offline](https://github.com/Jupton2020/PWA-Budget-Tracker/blob/master/public/assets/img/Screen%20Shot%202020-02-05%20at%208.50.55%20PM.png)
 
-* Offline image:
+* Offline images:
 
 ![Offline](https://github.com/Jupton2020/PWA-Budget-Tracker/blob/master/public/assets/img/Screen%20Shot%202020-02-05%20at%208.48.23%20PM.png)
 
